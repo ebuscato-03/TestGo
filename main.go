@@ -1,6 +1,6 @@
 package main
 
-import "TestGo/conditional"
+import "TestGo/loops"
 
 func main() {
 	//fmt.Println("test")
@@ -12,5 +12,7 @@ func main() {
 	// userinput.RobustInputValidator()
 	// conditional.GradeClassification()
 	// conditional.LeapYearChecker()
-	conditional.CommandLineMenu()
+	// conditional.CommandLineMenu()
+	loops.NumberSequenceGenerator()
+
 }

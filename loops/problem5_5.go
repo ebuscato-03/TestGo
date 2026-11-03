@@ -32,3 +32,28 @@ func EvenNumCounter() {
 	fmt.Println("-number of even numbers: ", accumulator)
 
 }
+
+func EvenNumCounterVer2() {
+	var input int64
+
+	evenCounter := 0
+	for {
+
+		fmt.Print("Enter a number (Press 0 to count number of even numbers): ")
+
+		_, err := fmt.Scan(&input)
+
+		if err != nil {
+			fmt.Println("Invalid input")
+		}
+
+		if input%2 == 0 {
+			evenCounter++
+		}
+		if input == 0 {
+			fmt.Println("Total even numbers: ", evenCounter)
+			break
+		}
+	}
+
+}

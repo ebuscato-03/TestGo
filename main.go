@@ -14,6 +14,8 @@ func main() {
 	// conditional.LeapYearChecker()
 	// conditional.CommandLineMenu()
 	// loops.NumberSequenceGenerator()
-	loops.NumberCounter()
+	// loops.NumberCounter()
+	// loops.SumOfNumbers()
+	loops.SumOfN()
 
 }

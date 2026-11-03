@@ -20,6 +20,7 @@ func main() {
 	// loops.EvenNumCounter()
 	// loops.EvenNumCounterVer2()
 	// loops.SentinelControlledSum()
-	loops.MultiplicationTableofN()
+	// loops.MultiplicationTableofN()
+	loops.GuessingGame()
 
 }

@@ -13,7 +13,6 @@ func NumberCounter() {
 		}
 
 		fmt.Print(i)
-
 		first = false
 	}
 }

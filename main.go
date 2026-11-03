@@ -13,6 +13,7 @@ func main() {
 	// conditional.GradeClassification()
 	// conditional.LeapYearChecker()
 	// conditional.CommandLineMenu()
-	loops.NumberSequenceGenerator()
+	// loops.NumberSequenceGenerator()
+	loops.NumberCounter()
 
 }

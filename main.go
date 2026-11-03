@@ -18,6 +18,7 @@ func main() {
 	// loops.SumOfNumbers()
 	// loops.SumOfN()
 	// loops.EvenNumCounter()
-	loops.EvenNumCounterVer2()
+	// loops.EvenNumCounterVer2()
+	loops.SentinelControlledSum()
 
 }

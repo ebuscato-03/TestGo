@@ -16,6 +16,7 @@ func main() {
 	// loops.NumberSequenceGenerator()
 	// loops.NumberCounter()
 	// loops.SumOfNumbers()
-	loops.SumOfN()
+	// loops.SumOfN()
+	loops.EvenNumCounter()
 
 }

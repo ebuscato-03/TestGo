@@ -1,6 +1,6 @@
 package main
 
-import "TestGo/loops"
+import "TestGo/functions"
 
 func main() {
 	//fmt.Println("test")
@@ -22,5 +22,6 @@ func main() {
 	// loops.SentinelControlledSum()
 	// loops.MultiplicationTableofN()
 	// loops.GuessingGame()
-	loops.NumberPropertyAnalyzer()
+	// loops.NumberPropertyAnalyzer()
+	functions.Test()
 }

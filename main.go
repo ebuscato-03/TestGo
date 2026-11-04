@@ -21,6 +21,6 @@ func main() {
 	// loops.EvenNumCounterVer2()
 	// loops.SentinelControlledSum()
 	// loops.MultiplicationTableofN()
-	loops.GuessingGame()
-
+	// loops.GuessingGame()
+	loops.NumberPropertyAnalyzer()
 }
